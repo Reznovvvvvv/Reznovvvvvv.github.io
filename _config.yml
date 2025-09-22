@@ -1,5 +1,5 @@
-table: Name
-| Left Aligned | Center Aligned | Right Aligned |
-| :----------- |:--------------:| ------------: |
-| Data 1       | Data 2         | Data 3        |
-| More Data    | Centered Text  | Right Text    |
+# Welcome to My GitHub Page
+
+| Name       | Introduction                                      | Hobbies                          |
+|------------|--------------------------------------------------|----------------------------------|
+| John Smith | Hello, I am a junior in the BS IT program. I enjoy coding Python and R. | Programming, making websites |
