@@ -2,4 +2,4 @@
 
 | Name       | Introduction                                      | Hobbies                          |
 |------------|--------------------------------------------------|----------------------------------|
-| John Smith | Hello, I am a junior in the BS IT program. I enjoy coding Python and R. | Programming, making websites |
+| Ethan Lilley | Hello, I am a junior in the BS Cyber program. I enjoy coding Python and R. | Programming, making websites |
